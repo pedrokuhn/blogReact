@@ -1,0 +1,7 @@
+.Avatar img {
+  vertical-align: middle;
+  width: 20%;
+  border-radius: 20%;
+  border: 0.3px solid #483d8b;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.3);
+}

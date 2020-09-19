@@ -1,0 +1,29 @@
+/*  src/Header.css  */
+.Header {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  padding: 2em;
+  margin-bottom: 2em;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background-color: #836fff;
+  font-family: 'Courier New', sans-serif;
+}
+
+.Header h1 {
+  font-size: 1.4em;
+  margin-bottom: 25px;
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+}
+
+.Header p {
+  font-size: 0.75em;
+  font-weight: bold;
+  width: 70%;
+  margin: 0 auto;
+  line-height: 1.5em;
+}
